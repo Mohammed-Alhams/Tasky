@@ -1,0 +1,68 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/.idea
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated build environments
+bin/
+gen/
+out/
+.gradle/
+build/
+.kotlin/
+
+# Local configuration file (contains your local SDK path, etc.)
+local.properties
+
+# Log Files & Profiling
+*.log
+*.hprof
+
+# Android Studio / IntelliJ files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/deploymentTargetDropDown.xml
+.idea/render.experimental.xml
+.idea/deploymentTargetSelector.xml
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Key management (NEVER commit your production keystore)
+*.jks
+*.keystore
+
+# Google Services configuration file
+# Remove the line below if you deliberately want to share a public Firebase configuration
+google-services.json
+
+# OS-specific files
+Thumbs.db
